@@ -117,8 +117,8 @@ sup { font-size: .65em; }
 .experience-body .award-note { font-size: 16px; margin-bottom: 12px; }
 .experience-body .text-link, .experience-body .research-details summary,
 .experience-body .affiliation, .experience-body .original-title { font-size: 16px; }
-.research-visual { display: grid; grid-template-columns: 219px minmax(0,1fr); gap: 24px; align-items: start; margin: 16px 0; }
-.research-figure { width: 219px; max-width: 100%; margin: 0; }
+.research-visual { display: grid; grid-template-columns: minmax(0,1fr); gap: 12px; align-items: start; margin: 16px 0; }
+.research-figure { width: 100%; max-width: 100%; margin: 0; }
 .research-figure .photo-trigger { width: 100%; }
 .research-figure img { width: 100%; height: auto; background: #ffffff; }
 .entry-skills { margin: 12px 0; }
